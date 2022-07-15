@@ -1,0 +1,1 @@
+Training materials for **"Introduction to Data Analysis with R"**. The materials were created on May, 2022 and includes data manipulation with `tidyverse`, data visualization with `ggplot2`, simple dashboard with `shiny`, and introduction to `R functions`.
