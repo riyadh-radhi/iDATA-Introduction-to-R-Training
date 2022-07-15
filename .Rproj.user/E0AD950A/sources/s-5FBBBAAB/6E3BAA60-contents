@@ -1,0 +1,27 @@
+###### Questions ########
+
+# 1) Create a data frame that has the following:
+#   a) one column called "names" that contains
+#      the names of your group members
+
+#   b) one column called "height_in_cm" that contains
+#      the height of your group members in cm 
+
+#   c) one column called "fav_movie" 
+#      that contains the name of the favorite movie of your group members
+
+# 2) find the average height of your group
+
+# 3) Append new column to your data frame that contains
+#   the height of your group members in meters called "height_in_m"
+
+# 4) create any sequence of even numbers that has the same length 
+#   as your data frame using the function seq()
+
+# 5) Append the sequence created to your data frame and give the new 
+#   column a proper name
+
+# 6) What is the total number of columns in your data frame now?
+#   (find a function that returns the number of columns of a data frame)
+
+
